@@ -9,7 +9,8 @@
     "headline": "Stretching guides",
     "title": "Stretching Guides — Routines, Form and Timing | Flexi Stretch",
     "description": "Practical stretching guides: a beginner routine, lower back pain, desk-based neck and shoulder stretches, hip flexors, postpartum recovery and the benefits of daily stretching.",
-    "jsonld_raw": "guides-index.jsonld"
+    "jsonld_raw": "guides-index.jsonld",
+    "canonical": "/guides/"
   },
   {
     "path": "/guides/daily-stretching-routine-for-beginners.html",

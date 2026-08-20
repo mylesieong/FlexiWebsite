@@ -119,7 +119,9 @@ def build():
     written = []
 
     for page in pages:
-        page["url"] = SITE + page["path"]
+        # `canonical` lets a page live at /dir/index.html while advertising the
+        # pretty /dir/ form that every internal link actually uses.
+        page["url"] = SITE + page.get("canonical", page["path"])
         body = (ROOT / "src" / page["body"]).read_text()
         if page.get("cta", True):
             body = body.replace("<!--CTA-->", CTA)
@@ -142,7 +144,7 @@ def build():
             body=body,
             footer=FOOTER,
         ))
-        written.append((page["path"], page.get("modified", "2026-08-20"), page.get("priority", "0.7")))
+        written.append((page.get("canonical", page["path"]), page.get("modified", "2026-08-20"), page.get("priority", "0.7")))
 
     # index.html is hand-maintained (it is the only page with a bespoke layout),
     # so it is listed in the sitemap without being regenerated here.
