@@ -5,12 +5,19 @@ pages, and the privacy policy. No framework, no runtime JavaScript — every fil
 the repository root is either plain HTML/CSS or a generated artefact that can be
 served as-is by any static host.
 
+The site is mounted as a git submodule inside `mylesieong.github.io` at
+`products/flexi/`, so it is served from `https://mylesieong.github.io/products/flexi/`
+and never sits at the origin root. No link may start with `/`: templates write the
+`{root}` placeholder, and `build.py` resolves it to the way back to the site root for
+whatever depth the page lands at. The two hand-maintained pages, `index.html` and
+`404.html`, are at the root and use plain relative links.
+
 ## Layout
 
 ```
 index.html            Landing page (hand-maintained — bespoke layout)
 404.html              Not-found page
-privacy.html          Generated
+privacy-policy.html   Generated (the URL in the store listings)
 guides/               Generated SEO pages
 css/style.css         Shared stylesheet
 assets/img/           App icon and plan cover art, copied from the app

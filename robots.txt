@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.flexistretch.app/sitemap.xml
+Sitemap: https://mylesieong.github.io/products/flexi/sitemap.xml

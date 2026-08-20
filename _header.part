@@ -1,16 +1,16 @@
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="/">
-      <img src="/assets/img/app-icon.png" width="34" height="34" alt="" loading="eager" decoding="async">
+    <a class="brand" href="{root}index.html">
+      <img src="{root}assets/img/app-icon.png" width="34" height="34" alt="" loading="eager" decoding="async">
       Flexi Stretch
     </a>
     <nav class="nav" aria-label="Primary">
-      <a href="/#plans">Plans</a>
-      <a href="/#how" class="hide-sm">How it works</a>
-      <a href="/guides/" aria-current="page">Guides</a>
-      <a href="/#faq" class="hide-sm">FAQ</a>
-      <a class="btn btn-primary" href="/#get">Get the app</a>
+      <a href="{root}index.html#plans">Plans</a>
+      <a href="{root}index.html#how" class="hide-sm">How it works</a>
+      <a href="{root}guides/" aria-current="page">Guides</a>
+      <a href="{root}index.html#faq" class="hide-sm">FAQ</a>
+      <a class="btn btn-primary" href="{root}index.html#get">Get the app</a>
     </nav>
   </div>
 </header>

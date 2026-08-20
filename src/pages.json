@@ -319,8 +319,8 @@
     ]
   },
   {
-    "path": "/privacy.html",
-    "body": "privacy.html",
+    "path": "/privacy-policy.html",
+    "body": "privacy-policy-body.html",
     "og_type": "website",
     "priority": "0.3",
     "cta": false,
@@ -329,6 +329,6 @@
     "headline": "Privacy Policy",
     "title": "Privacy Policy | Flexi Stretch",
     "description": "How the Flexi Stretch app handles your data: your history and streaks stay on your device, analytics are anonymous, and there is no account or sign-in.",
-    "jsonld_raw": "privacy.jsonld"
+    "jsonld_raw": "privacy-policy.jsonld"
   }
 ]

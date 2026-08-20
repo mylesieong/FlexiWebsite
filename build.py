@@ -10,7 +10,10 @@ import pathlib
 import re
 
 ROOT = pathlib.Path(__file__).parent
-SITE = "https://www.flexistretch.app"
+# The site is mounted as a submodule of mylesieong.github.io under products/flexi,
+# so it never sits at the origin root. SITE is used for canonical and Open Graph
+# URLs and the sitemap; in-page links go through the `{root}` placeholder instead.
+SITE = "https://mylesieong.github.io/products/flexi"
 
 HEADER = (ROOT / "_header.part").read_text()
 FOOTER = (ROOT / "_footer.part").read_text()
@@ -39,9 +42,9 @@ PAGE = """<!DOCTYPE html>
 <meta name="twitter:description" content="{description}">
 <meta name="twitter:image" content="{site}/assets/img/app-icon.png">
 
-<link rel="icon" href="/assets/img/app-icon.png" sizes="any">
-<link rel="apple-touch-icon" href="/assets/img/app-icon.png">
-<link rel="stylesheet" href="/css/style.css">
+<link rel="icon" href="{{root}}assets/img/app-icon.png" sizes="any">
+<link rel="apple-touch-icon" href="{{root}}assets/img/app-icon.png">
+<link rel="stylesheet" href="{{root}}css/style.css">
 
 <script type="application/ld+json">
 {jsonld}
@@ -133,6 +136,10 @@ def build():
 
         out = ROOT / page["path"].lstrip("/")
         out.parent.mkdir(parents=True, exist_ok=True)
+        # The site is served from a sub-path, so no link may start at the origin
+        # root. Templates write `{root}`; it resolves to the way back to the site
+        # root from wherever this page lands.
+        root = "../" * page["path"].lstrip("/").count("/")
         out.write_text(PAGE.format(
             title=page["title"],
             description=page["description"],
@@ -143,7 +150,7 @@ def build():
             header=HEADER,
             body=body,
             footer=FOOTER,
-        ))
+        ).replace("{root}", root))
         written.append((page.get("canonical", page["path"]), page.get("modified", "2026-08-20"), page.get("priority", "0.7")))
 
     # index.html is hand-maintained (it is the only page with a bespoke layout),
