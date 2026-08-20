@@ -1,0 +1,333 @@
+[
+  {
+    "path": "/guides/index.html",
+    "body": "guides-index.html",
+    "og_type": "website",
+    "priority": "0.9",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "Stretching guides",
+    "title": "Stretching Guides — Routines, Form and Timing | Flexi Stretch",
+    "description": "Practical stretching guides: a beginner routine, lower back pain, desk-based neck and shoulder stretches, hip flexors, postpartum recovery and the benefits of daily stretching.",
+    "jsonld_raw": "guides-index.jsonld"
+  },
+  {
+    "path": "/guides/daily-stretching-routine-for-beginners.html",
+    "body": "beginners.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "A 10-minute daily stretching routine for beginners",
+    "title": "A 10-Minute Daily Stretching Routine for Beginners | Flexi Stretch",
+    "description": "Six stretches, 30 seconds each, in the right order. A complete 10-minute beginner stretching routine with form tips and how to make the habit stick.",
+    "howto": {
+      "name": "A 10-minute daily stretching routine for beginners",
+      "time": "PT10M",
+      "steps": [
+        [
+          "Seated neck release",
+          "Sit tall and drop one ear towards that shoulder, letting the weight of your head do the work. Keep the opposite shoulder down. Hold 30 seconds each side."
+        ],
+        [
+          "Cross-body shoulder stretch",
+          "Bring one arm straight across your chest and hook it with the opposite forearm, drawing it gently towards you with the shoulder down. Hold 30 seconds each side."
+        ],
+        [
+          "Standing chest opener",
+          "Clasp your hands behind your back, straighten your arms and lift them slightly while opening your chest. Hold 30 seconds."
+        ],
+        [
+          "Kneeling hip flexor stretch",
+          "Kneel on one knee with the other foot forward. Tuck your tailbone under, then shift your weight gently forward. Hold 30 seconds each side."
+        ],
+        [
+          "Lying hamstring stretch",
+          "Lie on your back and lift one leg towards the ceiling, holding behind the thigh, with the other leg flat on the floor. Hold 30 seconds each side."
+        ],
+        [
+          "Butterfly stretch",
+          "Sit with the soles of your feet together and knees open, then hinge forward from the hips rather than rounding your back. Hold 30 seconds."
+        ]
+      ]
+    },
+    "faq": [
+      [
+        "Should I stretch before or after exercise?",
+        "Save long static holds for after exercise or for a standalone session. Before a workout, a few minutes of moving warm-up such as leg swings, arm circles or a brisk walk prepares you better than holding a stretch for 30 seconds."
+      ],
+      [
+        "How soon will I notice a difference from stretching?",
+        "Most people feel looser within the same session. Lasting change in how far you can move usually shows up after three to four weeks of near-daily practice."
+      ],
+      [
+        "Is it bad if I am very inflexible?",
+        "No, it is just a starting point. Depth is irrelevant; what matters is feeling a mild stretch in the right place. Bend the knee, shorten the reach or use a cushion."
+      ],
+      [
+        "Can I stretch every day?",
+        "Yes. Gentle daily stretching does not require recovery days the way heavy lifting does. If an area feels genuinely sore rather than tight, give it a day off."
+      ]
+    ]
+  },
+  {
+    "path": "/guides/stretching-for-lower-back-pain.html",
+    "body": "lower-back.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "Stretching for lower back pain",
+    "title": "Stretching for Lower Back Pain: A Gentle 10-Minute Routine | Flexi Stretch",
+    "description": "Six gentle stretches for a stiff lower back, why tight hips and hamstrings are usually the real cause, what to avoid, and the warning signs that need a doctor instead.",
+    "howto": {
+      "name": "A gentle 10-minute routine for lower back stiffness",
+      "time": "PT10M",
+      "steps": [
+        [
+          "Knee to chest",
+          "Lie on your back with both knees bent and draw one knee towards your chest with both hands, keeping the other foot flat. Hold 30 seconds each side."
+        ],
+        [
+          "Supine spinal twist",
+          "On your back with arms out in a T, let both knees fall slowly to one side and turn your head the other way, keeping both shoulders on the floor. Hold 30 seconds each side."
+        ],
+        [
+          "Figure-four glute stretch",
+          "Cross one ankle over the opposite thigh, then reach through and pull that thigh towards you. Hold 30 seconds each side."
+        ],
+        [
+          "Lying hamstring stretch",
+          "Raise one leg towards the ceiling with your hands behind the thigh and the other leg flat. A soft bend in the raised knee is fine. Hold 30 seconds each side."
+        ],
+        [
+          "Kneeling hip flexor stretch",
+          "Kneel on one knee with the other foot forward. Tuck your tailbone under before shifting your weight forward. Hold 30 seconds each side."
+        ],
+        [
+          "Child's pose",
+          "Kneel, sit back towards your heels and walk your hands forward with your forehead resting down, widening your knees if your hips are tight. Hold 30 seconds."
+        ]
+      ]
+    },
+    "faq": [
+      [
+        "How often should I stretch for lower back pain?",
+        "Once a day, most days, is the sweet spot. If your back is particularly stiff in the mornings, an evening routine often helps more."
+      ],
+      [
+        "Should stretching hurt?",
+        "No. You want a mild pull that eases as you hold it. If a stretch is still sharp after ten seconds, come out of it and reduce the range."
+      ],
+      [
+        "How long before my back feels better?",
+        "Many people feel looser immediately after a session. Meaningful change in day-to-day stiffness usually takes two to four weeks of near-daily practice. If nothing has improved after a month, see a physiotherapist."
+      ],
+      [
+        "When should I see a doctor about back pain?",
+        "See a clinician if the pain radiates down a leg, you have numbness, tingling or weakness in a foot, you notice any change in bladder or bowel control, the pain followed a fall or accident, or it wakes you at night."
+      ]
+    ]
+  },
+  {
+    "path": "/guides/neck-and-shoulder-stretches-for-desk-workers.html",
+    "body": "desk.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "Neck and shoulder stretches for desk workers",
+    "title": "5 Neck and Shoulder Stretches You Can Do at Your Desk | Flexi Stretch",
+    "description": "Five seated stretches for neck and shoulder tension from desk work, in under five minutes. Plus when to do them and the desk setup changes that reduce the load.",
+    "howto": {
+      "name": "Five neck and shoulder stretches at your desk",
+      "time": "PT5M",
+      "steps": [
+        [
+          "Lateral neck stretch",
+          "Sit tall and drop one ear towards that shoulder, letting gravity do the work. Hold the chair edge with the opposite hand to deepen it. Hold 30 seconds each side."
+        ],
+        [
+          "Levator scapulae stretch",
+          "Turn your head about 45 degrees to one side, then look down towards your armpit. Hold 30 seconds each side."
+        ],
+        [
+          "Cross-body shoulder stretch",
+          "Bring one arm straight across your chest, hook it with the opposite forearm and draw it gently in, keeping the shoulder down. Hold 30 seconds each side."
+        ],
+        [
+          "Seated chest opener",
+          "Clasp your hands behind the chair back or your lower back, straighten your arms and lift your sternum. Hold 30 seconds."
+        ],
+        [
+          "Wrist and forearm stretch",
+          "Extend one arm palm forward and gently pull the fingers back with the other hand, then repeat with the palm facing down. Hold 30 seconds each side."
+        ]
+      ]
+    },
+    "faq": [
+      [
+        "How many times a day should I stretch my neck at work?",
+        "Two to three short rounds through a working day is plenty. There is no benefit to more, and a routine so demanding that you abandon it costs you everything."
+      ],
+      [
+        "Can stretching get rid of a tension headache?",
+        "Tension headaches often trace back to tight neck and upper shoulder muscles, and many people get relief from this kind of routine. Frequent or severe headaches should be assessed by a doctor rather than managed with stretching alone."
+      ],
+      [
+        "Is it safe to stretch a neck that already aches?",
+        "Gentle stretching of an achy, tight neck is usually fine and often helpful. Stop if there is sharp pain, or any numbness, tingling or weakness in an arm or hand."
+      ],
+      [
+        "Do I need to stand up for desk stretches?",
+        "No. All five of these work seated in an ordinary office chair."
+      ]
+    ]
+  },
+  {
+    "path": "/guides/hip-flexor-stretches.html",
+    "body": "hips.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "Hip flexor stretches for people who sit all day",
+    "title": "Hip Flexor Stretches for People Who Sit All Day | Flexi Stretch",
+    "description": "Four hip flexor stretches, the signs yours are tight, and the tailbone-tuck mistake almost everyone makes in the kneeling stretch. A 10-minute routine for desk workers.",
+    "howto": {
+      "name": "Four hip flexor stretches for desk workers",
+      "time": "PT10M",
+      "steps": [
+        [
+          "Kneeling hip flexor stretch",
+          "Kneel on one knee with the other foot forward, both at right angles. Squeeze the rear glute and tuck your tailbone under, then shift your weight forward an inch or two. Hold 30 seconds each side."
+        ],
+        [
+          "Couch stretch against a wall",
+          "From kneeling, place the top of your back foot against a wall or sofa behind you to add the quad. Reduce the angle if it is too intense. Hold 30 seconds each side."
+        ],
+        [
+          "Figure-four glute stretch",
+          "Lie on your back, cross one ankle over the opposite thigh and draw that thigh towards you. Hold 30 seconds each side."
+        ],
+        [
+          "Side-lying IT band stretch",
+          "Lie on one side with the top leg drawn back and dropping behind you, stretching the outside of the hip and thigh. Hold 30 seconds each side."
+        ]
+      ]
+    },
+    "faq": [
+      [
+        "How long does it take to loosen tight hip flexors?",
+        "You will feel a difference within a session, but changing the resting length of muscles that have adapted over years takes consistent daily work. Most people notice a real shift between four and eight weeks."
+      ],
+      [
+        "Should I stretch my hips before or after running?",
+        "After, or as a separate session. Before a run, do dynamic work such as leg swings, walking lunges and a few minutes of easy jogging. Long static holds immediately beforehand can slightly blunt power output."
+      ],
+      [
+        "My knee hurts during the kneeling hip flexor stretch. What should I do?",
+        "Put a folded towel or cushion under it, as this is almost always floor pressure rather than a knee problem. If pain continues even with padding, stop and get it looked at."
+      ],
+      [
+        "What is the most common hip flexor stretch mistake?",
+        "Lunging forward hard without tucking the tailbone. That arches the lower back and leaves the hip flexor exactly as short as it was. Tuck the tailbone and squeeze the glute first, then shift forward only slightly."
+      ]
+    ]
+  },
+  {
+    "path": "/guides/postpartum-stretching-guide.html",
+    "body": "postpartum.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "Postpartum stretching: where to start",
+    "title": "Postpartum Stretching: A Gentle Guide to Getting Started | Flexi Stretch",
+    "description": "Gentle postpartum stretching: why everything feels tight after birth, five low-load stretches to begin with, what to hold off on, and when to get cleared first.",
+    "howto": {
+      "name": "A gentle postpartum stretching routine",
+      "time": "PT10M",
+      "steps": [
+        [
+          "Seated neck release",
+          "Sit tall and drop one ear towards that shoulder with the opposite shoulder relaxed down, without pulling. Hold 30 seconds each side."
+        ],
+        [
+          "Chest opener",
+          "Clasp your hands behind your back with arms straight and chest lifting, or hold a towel between your hands if your wrists object. Hold 30 seconds."
+        ],
+        [
+          "Knee to chest",
+          "Lie on your back and draw one knee gently towards your chest, keeping the other foot flat. Hold 30 seconds each side."
+        ],
+        [
+          "Figure-four glute stretch",
+          "Cross one ankle over the opposite thigh and draw that thigh gently towards you, staying well short of end range. Hold 30 seconds each side."
+        ],
+        [
+          "Child's pose with knees wide",
+          "Kneel with your knees apart, sit back towards your heels and rest your forehead down, breathing into your back ribs. Hold 30 seconds."
+        ]
+      ]
+    },
+    "faq": [
+      [
+        "When can I start stretching after giving birth?",
+        "Gentle movement and breathing often start within days with your clinician's agreement, but a structured routine should wait for your postnatal check, and longer after a caesarean. Ask your midwife, doctor or physiotherapist about your own situation."
+      ],
+      [
+        "Is stretching safe while breastfeeding?",
+        "Yes. Gentle stretching has no effect on milk supply. Many people find it more comfortable just after a feed."
+      ],
+      [
+        "What if I have diastasis recti?",
+        "Abdominal separation is common and usually improves. Avoid crunches and deep backbends, and get assessed by a pelvic health or postnatal physiotherapist, as targeted work is far more effective than guessing."
+      ],
+      [
+        "Is a five-minute postpartum routine worth doing?",
+        "Yes. Pick two stretches, such as the chest opener and knee to chest. A short routine you actually repeat outperforms a full one you keep postponing."
+      ]
+    ]
+  },
+  {
+    "path": "/guides/benefits-of-daily-stretching.html",
+    "body": "benefits.html",
+    "priority": "0.8",
+    "published": "2026-08-20",
+    "modified": "2026-08-20",
+    "headline": "The benefits of daily stretching",
+    "title": "The Benefits of Daily Stretching (and a Realistic Timeline) | Flexi Stretch",
+    "description": "What ten minutes of daily stretching actually changes: flexibility, everyday aches, posture, sleep, stress and recovery, plus a week-by-week timeline of what to expect.",
+    "faq": [
+      [
+        "How long should I stretch each day?",
+        "Ten minutes is the practical sweet spot: enough to cover the whole body at 30 seconds per stretch, and short enough to survive a busy week."
+      ],
+      [
+        "Is stretching enough exercise on its own?",
+        "For mobility, comfort and stiffness it does a lot, but it is not a substitute for strength work or cardiovascular exercise and it will not build muscle."
+      ],
+      [
+        "Does stretching prevent injury?",
+        "A proper warm-up matters more than pre-exercise stretching for acute injury. Regular stretching does appear to help with the chronic, overuse kind that comes from restricted range."
+      ],
+      [
+        "Can you be too flexible?",
+        "Yes. Hypermobility is real, and for those people the priority is strength and control through range rather than more range."
+      ],
+      [
+        "Is it better to stretch in the morning or the evening?",
+        "Whichever you will actually repeat. Evening tends to feel easier because you are warm and moved; morning tends to be easier to protect from the rest of the day."
+      ]
+    ]
+  },
+  {
+    "path": "/privacy.html",
+    "body": "privacy.html",
+    "og_type": "website",
+    "priority": "0.3",
+    "cta": false,
+    "published": "2026-08-13",
+    "modified": "2026-08-13",
+    "headline": "Privacy Policy",
+    "title": "Privacy Policy | Flexi Stretch",
+    "description": "How the Flexi Stretch app handles your data: your history and streaks stay on your device, analytics are anonymous, and there is no account or sign-in.",
+    "jsonld_raw": "privacy.jsonld"
+  }
+]

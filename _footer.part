@@ -1,0 +1,49 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <a class="brand" href="/">
+          <img src="/assets/img/app-icon.png" width="34" height="34" alt="" loading="lazy" decoding="async">
+          Flexi Stretch
+        </a>
+        <p class="muted" style="margin-top:.75rem;max-width:28em;">
+          Guided stretching for women, on iOS and Android. Built by Municornio.
+        </p>
+      </div>
+      <div>
+        <h3>App</h3>
+        <ul>
+          <li><a href="/#plans">Plans</a></li>
+          <li><a href="/#how">How it works</a></li>
+          <li><a href="/#pricing">Pricing</a></li>
+          <li><a href="/#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Guides</h3>
+        <ul>
+          <li><a href="/guides/">All guides</a></li>
+          <li><a href="/guides/daily-stretching-routine-for-beginners.html">Beginner routine</a></li>
+          <li><a href="/guides/stretching-for-lower-back-pain.html">Lower back pain</a></li>
+          <li><a href="/guides/neck-and-shoulder-stretches-for-desk-workers.html">Desk stretches</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Legal</h3>
+        <ul>
+          <li><a href="/privacy.html">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="disclaimer">
+      Flexi is a fitness and wellbeing app. It is not a medical device and does not provide
+      medical advice. Stop if a stretch causes pain, and talk to a doctor or physiotherapist
+      before starting a new exercise routine — particularly if you are injured, pregnant or
+      recently postpartum.
+    </p>
+    <div class="legal">
+      <span>&copy; 2026 Municornio. All rights reserved.</span>
+      <span>Made for people who sit too much.</span>
+    </div>
+  </div>
+</footer>
