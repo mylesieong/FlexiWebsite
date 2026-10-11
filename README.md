@@ -6,7 +6,7 @@ the repository root is either plain HTML/CSS or a generated artefact that can be
 served as-is by any static host.
 
 The site is mounted as a git submodule inside `mylesieong.github.io` at
-`products/flexi/`, so it is served from `https://mylesieong.github.io/products/flexi/`
+`products/flexi/`, so it is served from `https://saivsreality.com/products/flexi/`
 and never sits at the origin root. No link may start with `/`: templates write the
 `{root}` placeholder, and `build.py` resolves it to the way back to the site root for
 whatever depth the page lands at. The two hand-maintained pages, `index.html` and

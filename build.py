@@ -13,7 +13,7 @@ ROOT = pathlib.Path(__file__).parent
 # The site is mounted as a submodule of mylesieong.github.io under products/flexi,
 # so it never sits at the origin root. SITE is used for canonical and Open Graph
 # URLs and the sitemap; in-page links go through the `{root}` placeholder instead.
-SITE = "https://mylesieong.github.io/products/flexi"
+SITE = "https://saivsreality.com/products/flexi"
 
 HEADER = (ROOT / "_header.part").read_text()
 FOOTER = (ROOT / "_footer.part").read_text()

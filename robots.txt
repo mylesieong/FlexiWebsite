@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mylesieong.github.io/products/flexi/sitemap.xml
+Sitemap: https://saivsreality.com/products/flexi/sitemap.xml

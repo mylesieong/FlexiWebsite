@@ -3,17 +3,17 @@
   "@graph": [
     {
       "@type": "CollectionPage",
-      "@id": "https://mylesieong.github.io/products/flexi/guides/",
+      "@id": "https://saivsreality.com/products/flexi/guides/",
       "name": "Stretching guides",
       "description": "Practical stretching guides from Flexi Stretch: routines, form, timing and what to expect.",
       "inLanguage": "en-US",
-      "isPartOf": { "@type": "WebSite", "@id": "https://mylesieong.github.io/products/flexi/#website" }
+      "isPartOf": { "@type": "WebSite", "@id": "https://saivsreality.com/products/flexi/#website" }
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mylesieong.github.io/products/flexi/" },
-        { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://mylesieong.github.io/products/flexi/guides/" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://saivsreality.com/products/flexi/" },
+        { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://saivsreality.com/products/flexi/guides/" }
       ]
     },
     {
@@ -21,12 +21,12 @@
       "itemListOrder": "https://schema.org/ItemListUnordered",
       "numberOfItems": 6,
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "url": "https://mylesieong.github.io/products/flexi/guides/daily-stretching-routine-for-beginners.html", "name": "A 10-minute daily stretching routine for beginners" },
-        { "@type": "ListItem", "position": 2, "url": "https://mylesieong.github.io/products/flexi/guides/stretching-for-lower-back-pain.html", "name": "Stretching for lower back pain" },
-        { "@type": "ListItem", "position": 3, "url": "https://mylesieong.github.io/products/flexi/guides/neck-and-shoulder-stretches-for-desk-workers.html", "name": "Neck and shoulder stretches for desk workers" },
-        { "@type": "ListItem", "position": 4, "url": "https://mylesieong.github.io/products/flexi/guides/hip-flexor-stretches.html", "name": "Hip flexor stretches for people who sit all day" },
-        { "@type": "ListItem", "position": 5, "url": "https://mylesieong.github.io/products/flexi/guides/postpartum-stretching-guide.html", "name": "Postpartum stretching: where to start" },
-        { "@type": "ListItem", "position": 6, "url": "https://mylesieong.github.io/products/flexi/guides/benefits-of-daily-stretching.html", "name": "The benefits of daily stretching" }
+        { "@type": "ListItem", "position": 1, "url": "https://saivsreality.com/products/flexi/guides/daily-stretching-routine-for-beginners.html", "name": "A 10-minute daily stretching routine for beginners" },
+        { "@type": "ListItem", "position": 2, "url": "https://saivsreality.com/products/flexi/guides/stretching-for-lower-back-pain.html", "name": "Stretching for lower back pain" },
+        { "@type": "ListItem", "position": 3, "url": "https://saivsreality.com/products/flexi/guides/neck-and-shoulder-stretches-for-desk-workers.html", "name": "Neck and shoulder stretches for desk workers" },
+        { "@type": "ListItem", "position": 4, "url": "https://saivsreality.com/products/flexi/guides/hip-flexor-stretches.html", "name": "Hip flexor stretches for people who sit all day" },
+        { "@type": "ListItem", "position": 5, "url": "https://saivsreality.com/products/flexi/guides/postpartum-stretching-guide.html", "name": "Postpartum stretching: where to start" },
+        { "@type": "ListItem", "position": 6, "url": "https://saivsreality.com/products/flexi/guides/benefits-of-daily-stretching.html", "name": "The benefits of daily stretching" }
       ]
     }
   ]

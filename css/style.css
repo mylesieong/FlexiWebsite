@@ -151,8 +151,18 @@ section { padding: 72px 0; }
 .g2 { grid-template-columns: repeat(2, 1fr); }
 .g3 { grid-template-columns: repeat(3, 1fr); }
 .g4 { grid-template-columns: repeat(4, 1fr); }
-@media (max-width: 900px) { .g3, .g4 { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 600px) { .g2, .g3, .g4 { grid-template-columns: 1fr; } }
+.g5 { grid-template-columns: repeat(5, 1fr); }
+.goal { text-align: center; }
+.goal img { width: 100%; max-width: 180px; aspect-ratio: 1; border-radius: 50%; background: #FFF7F1; border: 6px solid var(--surface); box-shadow: 0 6px 18px rgba(240,84,125,.15); margin: 0 auto 12px; display: block; }
+.goal h3 { font-size: 1rem; margin-bottom: .25rem; }
+.goal p { font-size: .875rem; color: var(--muted); }
+.feel { display: flex; align-items: center; gap: 14px; margin-top: 1rem; }
+.feel div { flex: 1; border-radius: var(--r-panel); padding: 14px; text-align: center; background: #F5EFEF; }
+.feel div.after { background: var(--pink); color: #fff; }
+.feel b { display: block; font-size: 2.5rem; line-height: 1; }
+.feel span { font-weight: 700; font-size: .875rem; }
+@media (max-width: 900px) { .g3, .g4 { grid-template-columns: repeat(2, 1fr); } .g5 { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 600px) { .g2, .g3, .g4 { grid-template-columns: 1fr; } .g5 { grid-template-columns: repeat(2, 1fr); } }
 
 .card {
   background: var(--surface); border: 1px solid var(--border);
